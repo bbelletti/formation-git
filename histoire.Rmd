@@ -4,10 +4,6 @@ output: html_document
 date: "2024-05-13"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Rencontre de  l'ogre
 LN se promenait dans la forêt des GRands-Framboisiers et rencontra un ogre...
 
@@ -15,4 +11,6 @@ La forêt des Grands-Framboisiers etait son paradis.
 L'ogre ressemblait à  un grand totem, couvert de petites bulles roses et avec un grand chapeau vert. On avait du mal à le discerner des Grands framboisiers. Ce qui lui permettait de mager des framboises sans être vu.
 
 Mais aujourd'hui il avait faim !
+
+Il avait faim de saucisson brioché et, justement, LN sorait tout juste de son boucher du coeur oú elle venait d'acheter... du saucisson lyonnais !
  
