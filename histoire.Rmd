@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 LN se promenait dans le vieux Lyon et rencontra un ogre...
 
 L'ogre était en réalité un chat géant !
+
+Qui avait faim !
