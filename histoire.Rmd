@@ -9,8 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Rencontre de  l'ogre
-LN se promenait dans le vieux Lyon et rencontra un ogre...
+LN se promenait dans la forêt des GRands-Framboisiers et rencontra un ogre...
 
-L'ogre était en réalité un chat géant !
+La forêt des Grands-Framboisiers etait son paradis.
+L'ogre ressemblait à  un grand totem, couvert de petites bulles roses et avec un grand chapeau vert. On avait du mal à le discerner des Grands framboisiers. Ce qui lui permettait de mager des framboises sans être vu.
 
-Qui avait faim !
+Mais aujourd'hui il avait faim !
