@@ -14,7 +14,7 @@ Mais aujourd'hui il avait beaucoupissime faim !
 
 Il avait faim de saucisson brioché chaud et, justement, la belle LN sorait tout juste de son boucher du coeur oú elle venait d'acheter... du saucisson lyonnais bien chaud !
  
-![]("/images/OgreFramboise.png")
+![]("./images/OgreFramboise.png")
 
 "berk,berk,berk " pensa-t-il, "c'est sur qu'elle l'a pris aaux pistaches et non aux framboises.... et je suis alergique aux pistaches"!
 Mais heureusement, une belle framboise du nom de Barbi passait par là.
